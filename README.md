@@ -12,5 +12,5 @@
     </a>
     <p data-canonical-src="https://img.shields.io/badge/HTML-100-orange" style="max-width:100%;"></p>
  </p>
-![giphy](https://user-images.githubusercontent.com/79035081/204088265-95dbe892-4df6-4107-9721-8e23923a6e21.gif)
+<img src="https://user-images.githubusercontent.com/79035081/204088369-b08edd7d-9cf8-4d7c-b77b-d9d8f4df28e2.gif">
 
