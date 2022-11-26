@@ -4,6 +4,7 @@
 
     <p data-canonical-src="https://img.shields.io/badge/HTML-100-orange" style="max-width:100%;"></p>
     <p align="center"><img src="https://user-images.githubusercontent.com/79035081/204090523-25e5765b-a0c1-4932-bc45-261106ef24f1.svg" style="width:40%"></p>
+   </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-nikam/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@viruskreation) 
