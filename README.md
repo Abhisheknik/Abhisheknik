@@ -1,7 +1,8 @@
 <h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶 𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
 
 <p align="center">
-# 🌐 Socials:
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-nikam/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@viruskreation) 
 
 # 💻 Tech Stack:
@@ -21,5 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=Abhisheknik&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- </p>
-    </p>
