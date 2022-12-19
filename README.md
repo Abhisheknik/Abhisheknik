@@ -1,5 +1,7 @@
-<h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶! 
- 𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
+<h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶!<img src="https://user-images.githubusercontent.com/79035081/208421932-fddfb58d-03e8-40ee-90f0-e6daa850186f.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
 
 <p align="center">
   <p align="center"><img src="https://user-images.githubusercontent.com/79035081/204090523-25e5765b-a0c1-4932-bc45-261106ef24f1.svg" style="width:30%"></p>
