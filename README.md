@@ -1,4 +1,4 @@
-<h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶![wave](https://user-images.githubusercontent.com/79035081/208420559-f536fe42-01d2-4027-accf-578e3dda1b93.gif)
+<h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶! 
  𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
 
 <p align="center">
