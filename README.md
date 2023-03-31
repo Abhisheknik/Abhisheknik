@@ -27,8 +27,7 @@
 ### Profile Visit
 [![](https://visitcount.itsvg.in/api?id=Abhisheknik&icon=3&color=1)](https://visitcount.itsvg.in)
          
-### Most Used
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheknik&theme=blue-green)
+
          
 ### Contribution
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Abhisheknik/OIBSIP)
