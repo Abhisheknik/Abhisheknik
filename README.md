@@ -5,9 +5,7 @@
 
 <p align="center">
   <p align="center"> <img src="https://user-images.githubusercontent.com/79035081/227731359-9706aa1e-1930-4840-aae9-d59115107076.png" style="width:100%"></p>
-  
 
-<h1 align="center">Hi 👋, I'm Abhishek Nikam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknik&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknik" /> </p>
@@ -44,10 +42,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknik&" alt="abhisheknik" /></p>
 
-  
-  
 ### ✍️ Lets Give the snake some Contribution
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/boradesanket13/boradesanket13/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Abhisheknik/Abhisheknik/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/boradesanket13/boradesanket13/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Abhisheknik/Abhisheknik/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   </p>
