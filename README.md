@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknik" alt="abhisheknik" /></a></p>
         
 
-- 🔭 I’m currently working on **Oasis Infobyte**
+- 🔭 I’m currently working on **Ecell-IITBOMBOY**
 
 - 🌱 I’m currently learning **React js , Next js.**
 
