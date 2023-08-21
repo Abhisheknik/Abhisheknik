@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Ecell-IITBOMBOY**
 
-- 🌱 I’m currently learning **React js , Next js.**
+- 🌱 I’m currently learning **React js and Flutter**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
