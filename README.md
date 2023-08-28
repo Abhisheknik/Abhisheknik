@@ -4,7 +4,7 @@
          width="45" />𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
 
 <p align="center">
-  <p align="center"> <img src="https://github.com/Abhisheknik/Abhisheknik/assets/79035081/00e81a68-e644-413c-925e-2835d95145d4" style="width:100%"></p>
+  <p align="center"> <img src="https://github.com/Abhisheknik/Abhisheknik/assets/79035081/00e81a68-e644-413c-925e-2835d95145d4" style="width:50%"></p>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
