@@ -43,6 +43,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknik&" alt="abhisheknik" /></p>
 
+<p><img align="center" src="https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik" /></p>
+
+<p><img align="center" src="https://stats.quine.sh/Abhisheknik/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik)" /></p>
+<p><img align="center" src="https://stats.quine.sh/Abhisheknik/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik)" /></p>
+
 ### ✍️ Lets Give the snake some Contribution
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/boradesanket13/boradesanket13/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Abhisheknik/Abhisheknik/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
