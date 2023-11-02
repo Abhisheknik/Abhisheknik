@@ -43,9 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknik&" alt="abhisheknik" /></p>
 
-<p><img align="center" src="https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik" /></p>
 
-<p><img align="center" src="https://stats.quine.sh/Abhisheknik/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik)" /></p>
+
 <p><img align="center" src="https://stats.quine.sh/Abhisheknik/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisheknik)" /></p>
 
 ### ✍️ Lets Give the snake some Contribution
