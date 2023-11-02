@@ -3,6 +3,7 @@
          height="45"
          width="45" />𝗜'𝗺 𝗔𝗯𝗵𝗶𝘀𝗵𝗲𝗸 𝗡𝗶𝗸𝗮𝗺</h1>
 
+
 <p align="center">
   <p align="center"> <img src="https://github.com/Abhisheknik/Abhisheknik/assets/79035081/00e81a68-e644-413c-925e-2835d95145d4" style="width:50%"></p>
 
@@ -10,7 +11,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhisheknik&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknik" /> </p>
 
+<p align="center">
+  <a href="https://holopin.io/@abhisheknik">
+    <img src="https://holopin.me/abhisheknik" alt="Your Image Description">
+  </a>
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknik" alt="abhisheknik" /></a></p>
+
+
         
 
 - 🔭 I’m currently working on **Ecell-IITBOMBOY**
