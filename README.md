@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋! My name is <strong>Abhishek</strong> and I'm a Developer</h2>
 
+<p align="center">
+<img src="https://typograssy.deno.dev/api?text=Abhishek%20Nikam!)](https://github.com/kawarimidoll/typograssy">
+</p>
 
 ###
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="abhisheknik"/>
 </p>
@@ -17,11 +21,6 @@
     </a>
   </p>
 
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=abhisheknik" alt="abhisheknik" />
-    </a>
-  </p>
 
   - 🔭 I’m currently working on **Ecell-IITBOMBOY**
   - 🌱 I’m currently learning **React js and Flutter**
