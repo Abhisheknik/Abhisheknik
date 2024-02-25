@@ -1,14 +1,4 @@
-<h2 align="center">Hi 👋! My name is <strong>Abhishek</strong> and I'm a Developer</h2>
 
-<p align="center">
-<img src="https://typograssy.deno.dev/api?text=Abhishek%20Nikam!)](https://github.com/kawarimidoll/typograssy">
-</p>
-
-<!---
-<a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
-</a>
---->
 ###
 
 <p align="center">
@@ -16,9 +6,6 @@
 </p>
 <div align="center">
 
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=abhisheknik&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknik" />
-  </p>
 
   <p align="center">
     <a href="https://holopin.io/@abhisheknik">
@@ -27,52 +14,32 @@
   </p>
 
 
-  - 🔭 I’m currently working on **Ecell-IITBOMBOY**
-  - 🌱 I’m currently learning **React js and Flutter**
-  - 👯 I’m looking to collaborate on **Web Development**
-  - 👨‍💻 All of my projects are available at [Find me here](https://abhisheknikam.netlify.app/)
-  - 📫 How to reach me: [abhisheknikam006n@gmail.com](mailto:abhisheknikam006n@gmail.com)
-  - ⚡ Fun fact: **Anime Addicted** - Currently watching **One Piece**
-
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/abhishek-nikam/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/uczprxzi8thxli-qsibohosg" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    </a>
-  </p>
-
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center"> 
-    <!-- Add your tools and languages icons here -->
-  </p>
-
-  <h3 align="center">Support:</h3>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/abhisheknik">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknik&show_icons=true&locale=en&layout=compact" alt="abhisheknik" />
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknik&show_icons=true&locale=en" alt="abhisheknik" />
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknik&" alt="abhisheknik" />
-  </p>
-
-  [![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhisheknik&theme=react-dark&hide_border=true&area=true)](https://github.com/Abhisheknik/github-readme-activity-graph)
-
-  <p align="center">
-    <img align="center" src="https://stats.quine.sh/Abhisheknik/github?theme=dark" />
-  </p>
-</div>
+ 
+# 💫 About Me:
+Hi 👋! My name is Abhishek and I'm a Developer
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-nikam/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@href="https://www.youtube.com/channel/uczprxzi8thxli-qsibohosg) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhisheknik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhisheknik&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheknik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abhisheknik&icon=2&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/href="https://www.buymeacoffee.com/abhisheknik) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
