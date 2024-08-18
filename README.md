@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Abhishek</h1>
-
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-left: 10px; margin-right: 10px;"> I'm Abhishek
+</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbhisheknik%2FAbhisheknik&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,15 +10,19 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://abhisheknikam.onrender.com)](https://abhisheknikam.onrender.com)
 [![Github](https://img.shields.io/github/followers/Abhisheknik?label=Follow&style=social)](https://github.com/Abhisheknik)
 
+<img align="right" height="200" width="250" bottom="20" src="https://media1.giphy.com/media/6DNtXFxz7RHxK/200.gif?cid=6c09b952wq4w4vndk36i95mkscbrx5i47jnqj7nzlviajbku&ep=v1_gifs_search&rid=200.gif&ct=g">
+
 🌱 I’m currently working as Software Developer ***Integritas***
 
 👯 I’m looking to collaborate on OpenSource Projects.
 
 👨‍💻 All of my projects are available at Portfolio
 
-⚡ Learning Japanese  , i guess japan is calling me .
+⚡ Learning Japanese, I guess Japan is calling me.
 
-🗂️[Resume / CV](URL_TO_YOUR_RESUME_OR_CV)
+
+🗂️ [Resume / CV](URL_TO_YOUR_RESUME_OR_CV)
+
 
 
 
