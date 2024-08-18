@@ -21,7 +21,7 @@
 ⚡ Learning Japanese, I guess Japan is calling me.
 
 
-🗂️ [Resume / CV](URL_TO_YOUR_RESUME_OR_CV)
+🗂️ [Resume / CV](https://abhisheknikam.tiiny.site/)
 
 
 
