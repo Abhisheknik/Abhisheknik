@@ -12,7 +12,7 @@
 
 <img align="right" height="200" width="250" bottom="20" src="https://media1.giphy.com/media/6DNtXFxz7RHxK/200.gif?cid=6c09b952wq4w4vndk36i95mkscbrx5i47jnqj7nzlviajbku&ep=v1_gifs_search&rid=200.gif&ct=g">
 
-🌱 I’m currently working as Software Developer ***Integritas***
+🌱 I’m currently working as .Net Developer ***iMocha***
 
 👯 I’m looking to collaborate on OpenSource Projects.
 
